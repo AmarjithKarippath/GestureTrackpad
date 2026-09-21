@@ -4,6 +4,9 @@ A macOS menu bar app that uses the webcam and Apple’s on-device Vision hand-po
 
 Nothing is uploaded. Hand tracking runs locally.
 
+## Demo
+https://youtu.be/8bcMFJ1cs7w?si=fwpFd93PbUptjhLV
+
 ## Gestures
 
 Bring a browser to the front, then:
